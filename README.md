@@ -1,4 +1,4 @@
-#FPGA Test Project
+# FPGA Test Project
 This is FPGA project for my study.
 
 ## Reference
